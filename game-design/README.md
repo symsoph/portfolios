@@ -19,6 +19,7 @@ These two models were built in Blender and rendered with OpenGL. For the donut, 
 </details>
 <br>
 
+
 ☀️🏢🌍
 > As a Cognitive Cities Intern at the Qualcomm Institute, I found optimal places for solar paneling at UCSD's Warren College by utilizing Unreal Engine, Cesium, and Google Maps. 
 
@@ -38,27 +39,40 @@ Isolated with Unreal lighting and raw drone scans before adding on Cesium and Go
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         Unreal only | Jacobs Hall | Side Angle <br/>
+        <a href="/game-design/photos/solar-jacobsHall.gif" target="_blank"> 
+        </a> &nbsp;&nbsp;
+        <a href="/game-design/photos/solar-jacobsHall.gif" target="_blank"></a>
       </h4>
-<img src="/game-design/photos/solar-jacobsHall.gif" width="90%">
 
 
    </td>
   <td style="vertical-align: top; width: 50%;">
       <h4> 
-        Unreal only | Jacobs Hall | Top <br/>
+       Unreal only | Jacobs Hall | Top  <br/>
+        <a href="/game-design/photos/solar-TopWarrenMallField.gif" target="_blank">
+        </a> 
       </h4>
-<img src="/game-design/photos/solar-TopWarrenMallField.gif" width="90%">
-    
+  </td>
   <!--======= Cesium + Google Maps -->
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         Add on Cesium + Google Maps | 7am - 6pm Light <br/>
+        <a href="/game-design/photos/solar-atkinsonRoof.gif">   
+        </a> 
       </h4>
-    <img src="/game-design/photos/solar-atkinsonRoof.gif" width="90%">
     </td>
 </tr>
 </details>
 
-> 
+With this experience, I also provided testing feedback about how to make 3D modeling controls in Unreal more accessible. Some features I suggested to the Cognitive Cities team was to implement a snapping tool, scalar widget, and a right-click dropdown menu for colors and materials.  
+
+
+### 💫 Games
+
+> [The Great Mouse Performance](https://frndlydragon.itch.io/the-great-mouse-performance) is a one-level 3D rhythm game I created with a group of 3 for [MelonJam 5](https://itch.io/jam/melonjam5). 
+
+**Role: Game Programmer**
+
+My Contributions
 
 
