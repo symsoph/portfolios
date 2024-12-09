@@ -4,8 +4,8 @@
 🍩🌼🐝
 > I learned the mechanisms and math behind graphics engines and rendered 2D & 3D models with OpenGL, Blender, and Shadertoy. 
 <div align="center" float="left">
-  <img src="/photos/hw4_donut.png" width="37%" />
-  <img src="/photos/hw4_not_donut.png" width="45%" /> 
+  <img src="/game-design/photos/hw4_donut.png" width="37%" />
+  <img src="/game-design/photos/hw4_not_donut.png" width="45%" /> 
 </div>
 
 These two models were built in Blender and rendered with OpenGL. For the donut, I followed the infamous [Blender tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) by Blender Guru on YouTube. Then, for a "not donut model", I created a bee then created a scene because I was inspired by the bees in Adventure Time.
@@ -13,8 +13,8 @@ These two models were built in Blender and rendered with OpenGL. For the donut, 
 <details>
 <summary> Here are some <i>bee-utfiul</i> references I used </summary>
 <div align="center" float="left">
-  <img src="/game-design/photos/bee-adventure-time.gif" width="37%" />
-  <img src="/game-design/photos/adventure-time-bee-by-eminentia.jpg" width="45%" /> 
+  <img src="/game-design/photos/bee-adventure-time.gif" width="49%" />
+  <img src="/game-design/photos/adventure-time-bee-by-eminentia.jpg" width="22%" /> 
 </div>
 </details>
 <br>
