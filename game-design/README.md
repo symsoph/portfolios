@@ -38,25 +38,23 @@ Isolated with Unreal lighting and raw drone scans before adding on Cesium and Go
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         Unreal only | Jacobs Hall | Side Angle <br/>
-        <a href="/game-design/photos/solar-jacobsHall.gif" target="_blank"> </a>
       </h4>
+<img src="/game-design/photos/solar-jacobsHall.gif" width="90%">
 
 
    </td>
   <td style="vertical-align: top; width: 50%;">
       <h4> 
-       Unreal only | Jacobs Hall | Top  <br/>
-        <a href="/game-design/photos/solar-TopWarrenMallField.gif" target="_blank">
-        </a> 
+        Unreal only | Jacobs Hall | Top <br/>
       </h4>
-  </td>
+<img src="/game-design/photos/solar-TopWarrenMallField.gif" width="90%">
+    
   <!--======= Cesium + Google Maps -->
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         Add on Cesium + Google Maps | 7am - 6pm Light <br/>
-        <a href="/game-design/photos/solar-atkinsonRoof.gif">   
-        </a> 
       </h4>
+    <img src="/game-design/photos/solar-atkinsonRoof.gif" width="90%">
     </td>
 </tr>
 </details>
