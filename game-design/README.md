@@ -125,5 +125,9 @@ My Contributions
 🍎🔪⚖️
 > Fruit Slicer is an unfinished game for [GMTK 2024](https://itch.io/jam/gmtk-2024). The idea is to slice the food object and match the weight.  I hope to further develop this game!
 
-![progress](/portfolios/game-design/assets/gmtk24.mp4)
+<div align="center">
+<video width="50%" height="50%" controls>
+  <source src="/portfolios/game-design/assets/gmtk24.mp4" type="video/mp4">
+</video>
+</div>
 
