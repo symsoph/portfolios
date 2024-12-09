@@ -1,6 +1,12 @@
 ## Sofia Nguyen - Game Design & Development Portfolio
 
 ### 💫 3D Modeling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+</p>
+
 🍩🌼🐝
 > I learned the mechanisms and math behind graphics engines and rendered 2D & 3D models with OpenGL, Blender, and Shadertoy. 
 <div align="center" float="left">
@@ -62,17 +68,46 @@ Isolated with Unreal lighting and raw drone scans before adding on Cesium and Go
       </h4>
     </td>
 </tr>
+</table>
 </details>
 
 With this experience, I also provided testing feedback about how to make 3D modeling controls in Unreal more accessible. Some features I suggested to the Cognitive Cities team was to implement a snapping tool, scalar widget, and a right-click dropdown menu for colors and materials.  
 
 
 ### 💫 Games
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+ </p>
 
-> [The Great Mouse Performance](https://frndlydragon.itch.io/the-great-mouse-performance) is a one-level 3D rhythm game I created with a group of 3 for [MelonJam 5](https://itch.io/jam/melonjam5). 
+> [The Great Mouse Performance](https://frndlydragon.itch.io/the-great-mouse-performance) is a one-level 3D rhythm game I created with a group of 3 for [MelonJam 5](https://itch.io/jam/melonjam5), using Unity. 
 
-**Role: Game Programmer**
+<!-- Pictures (should add screenshot from in-game...) -->
+
+<div align="center">
+  <img src="https://img.itch.zone/aW1nLzE3MDIxNjAwLnBuZw==/original/At1hrr.png" width="50%">
+  <br/>
+  <i align="center">Above was designed by me!</i>
+
+**Role: Game Programmer + Audio**
+</div>
 
 My Contributions
+- Researched packages such as midi parser and 3D note generator
+- Design and develop health interface
+- Implemented copyright free classical songs and character audio
+- Vectored `itch.io` game page art with Figma
+  
+<br>
+
+
+> The Mysterious Forest is the first game I created with a team at my first hack-a-thon ([ANova Hacks](https://www.berkeleyanova.org/)). It's a short 2D platformer with stylish pixel art inspired by open world JRPGs like Breath of the Wild. Try it [here](https://elias-855.itch.io/mysterious-forest)!
+
+<!-- Picture -->
+
+My Contributions
+- Won *Best Beginner Game*
+- Applied physics and ground
+- Gameplay design
+- Character and environment design
 
 
