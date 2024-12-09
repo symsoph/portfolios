@@ -104,14 +104,14 @@ My Contributions
 
 
 🐰🌿🐌
-> The Mysterious Forest is the first game I created with a team at my first hack-a-thon ([ANova Hacks](https://www.berkeleyanova.org/)). It's a short 2D platformer with stylish pixel art inspired by open world JRPGs like Breath of the Wild.
+> The Mysterious Forest is the first game I created with a team at my first hack-a-thon ([ANova Hacks](https://www.berkeleyanova.org/)). It's a short 2D platformer made with Unity and stylish pixel art inspired by open world JRPGs like Breath of the Wild.
 >
 > Press 'E' to interact with other characters and use 'A' + 'D' or the arrows to move left to right.  Press <space> to jump!
 > Try it [here](https://elias-855.itch.io/mysterious-forest)!
 
 <!-- Picture -->
 <div align="center">
-  <img src="/portfolios/game-design/assets/mysterious-forest.png" width="50%">
+  <img src="/game-design/assets/mysterious-forest.png" width="50%">
  
 **Role: Game Programmer + Designer**
 </div>
@@ -130,8 +130,15 @@ My Contributions
 > Fruit Slicer is an unfinished game for [GMTK 2024](https://itch.io/jam/gmtk-2024). The idea is to slice the food object and match the weight.  I hope to further develop this game!
 
 <div align="center">
-<video alt="gmtk-progress" width="50%" height="50%" src="https://github.com/user-attachments/assets/f686938d-1c5c-4a11-99d2-a2a9bacbcd67">
+<video alt="gmtk-progress" width="400" height="500" src="https://github.com/user-attachments/assets/f686938d-1c5c-4a11-99d2-a2a9bacbcd67">
 </video>
+
+  **Role: Game Programmer**
+</div>
+
+My Contributions
+- Calculate and display dynamic atomic weight
+- Applied physics and ground
 </div>
 
 
