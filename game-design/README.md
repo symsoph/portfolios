@@ -26,6 +26,7 @@ These two models were built in Blender and rendered with OpenGL. For the donut, 
 <br>
 
 
+
 ☀️🏢🌍
 > As a Cognitive Cities Intern at the Qualcomm Institute, I found optimal places for solar paneling at UCSD's Warren College by utilizing Unreal Engine, Cesium, and Google Maps. 
 
@@ -100,6 +101,8 @@ My Contributions
   
 <br>
 
+
+
 🐰🌿🐌
 > The Mysterious Forest is the first game I created with a team at my first hack-a-thon ([ANova Hacks](https://www.berkeleyanova.org/)). It's a short 2D platformer with stylish pixel art inspired by open world JRPGs like Breath of the Wild.
 >
@@ -109,7 +112,6 @@ My Contributions
 <!-- Picture -->
 <div align="center">
   <img src="/portfolios/game-design/assets/mysterious-forest.png" width="50%">
-  <br/>
  
 **Role: Game Programmer + Designer**
 </div>
@@ -122,11 +124,13 @@ My Contributions
 
 <br>
 
+
+
 🍎🔪⚖️
 > Fruit Slicer is an unfinished game for [GMTK 2024](https://itch.io/jam/gmtk-2024). The idea is to slice the food object and match the weight.  I hope to further develop this game!
 
 <div align="center">
-<video width="50%" height="50%" src="">
+<video alt="gmtk-progress" width="50%" height="50%" src="https://github.com/user-attachments/assets/f686938d-1c5c-4a11-99d2-a2a9bacbcd67">
 </video>
 </div>
 
