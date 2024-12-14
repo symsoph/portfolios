@@ -22,11 +22,11 @@ One thing I wanted to fix in this version of the project was the business.  Ther
 > ![mono](color-based-on-distance.png)
 
 The scene was good, but I wanted to add a little more.  I wanted to add one or two more colors for the scene to be less monochromatic. I needed help, so I found another video from [The Art of Code](https://www.youtube.com/watch?v=rvDo9LvfoVE&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5&index=31).  With this guidance, I experimented with a version of the `hash()` function for randomness and color.
-> Here I tried to made the repeated cubes have more varied colors, but the code resulted in a scene that repeated the center circle. Still cool, I like how the lights line up to create circles.  Ultimately, however, I did not choose this route for the final product.
+> Here I tried to made the repeated cubes have more varied colors, but the code resulted in a scene that repeated the center circle. I like how the lights in each section of the screen line up to create bigger circles.  Ultimately, however, I did not choose this route for the final product.
 >
 > ![hash](final-ver2.gif)
 
-While I experimented with psuedo-randomness and color, I also wanted to add one more animation.  This lead me to use `cosine and iTime` to elongate the cubes.  The speed and impact the cubes make feels powerful like hammering.  Also, now the cubes create a frame around the black circle of light where a liquifying cloud moves in the background. 
+While I experimented with psuedo-randomness and color, I also wanted to add one more animation.  This lead me to use `cosine and iTime` to elongate the cubes.  The speed and impact the cubes make feels powerful, like hammering.  Also, now the cubes create a frame around the black circle of light where a liquifying cloud moves in the background. 
 > ![version3](final-ver3.gif)
 
 Am I done yet? Nope, as I kept gazing at this animation, I realized there were too many colors, which brings me to the final version of this project for CSE 167.  I was able to use the `hash()` function of the `floor(uv)` to split up the screen into different regions and set each region to be alternating colors of yellow and gray. These colors allow the strobe circle in the middle to stand out and blend back into the background and the horizon of light. Once you get tired of the neon lights and the pounding cubes, you will notice something opaque gliding about, risinig and sinking into the yellow-gray ground. 
@@ -34,5 +34,5 @@ Am I done yet? Nope, as I kept gazing at this animation, I realized there were t
 > *View the code [here](https://www.shadertoy.com/view/lfcfR2).*
 
 ## Next Steps
-I am satisfied with the result, but I would like to keep improving! The writeup and videos I've watched all showcased so many awesome projects.  Some of them do not even have that many lines of code, and I am amazed that it's all just math, so I am inspired to learn how to optimize and create even cooler effects and images.  
+I am satisfied with the result, but I would like to keep improving! The writeup and videos I've watched all showcased so many awesome projects.  Some of them do not even have that many lines of code, and I am amazed that it's all just math. Some creators showcase projects of realistic environments or moving character animations, so I am inspired to learn how to optimize and create even cooler effects and images.  
 
