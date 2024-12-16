@@ -1,6 +1,6 @@
 ## Sofia Nguyen - Game Design & Development Portfolio
 
-### 💫 3D Modeling
+### 💫 3D MODELING
 
 <p align="left">
   <img src="https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
@@ -75,7 +75,7 @@ Isolated with Unreal lighting and raw drone scans before adding on Cesium and Go
 With this experience, I also provided testing feedback about how to make 3D modeling controls in Unreal more accessible. Some features I suggested to the Cognitive Cities team was to implement a snapping tool, scalar widget, and a right-click dropdown menu for colors and materials.  
 
 
-### 💫 Games
+### 💫 GAME DEVELOPMENT
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
  </p>
