@@ -8,7 +8,7 @@
 </p>
 
 🍩🌼🐝
-> I learned the mechanisms and math behind graphics engines and rendered 2D & 3D models with OpenGL, Blender, and Shadertoy. 
+> I learned the mechanisms and math behind graphics engines and rendered 2D & 3D models with OpenGL, Blender, and [Shadertoy](https://github.com/symsoph/portfolios/tree/main/shadertoy). 
 <div align="center" float="left">
   <img src="/game-design/assets/hw4_donut.png" width="37%" />
   <img src="/game-design/assets/hw4_not_donut.png" width="45%" /> 
