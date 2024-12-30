@@ -131,6 +131,7 @@ My Contributions
 
 <div align="center">
 <video alt="gmtk-progress" width="400" height="500" src="https://github.com/user-attachments/assets/f686938d-1c5c-4a11-99d2-a2a9bacbcd67">
+<i>If the video is not showing, please trying refreshing the page!</i>
 </video>
 
   **Role: Game Programmer**
