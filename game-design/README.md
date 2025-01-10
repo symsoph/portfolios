@@ -1,5 +1,14 @@
 ## Sofia Nguyen - Game Design & Development Portfolio
 
+<!-- TODO:
+- Add game bible and game document
+- switch order of models and games
+- MOST IMPORTANT / impressive projects top (first)
+- completed games first (mysterious forest, mouse game with more screenshots, gmtk) 
+- Unreal: show UI maps....
+- 3D model product ddesign : wireframes, show all angles, character asset sheet
+-   modeling: gmtk might go with animation because of the weighting component -->
+
 ### 💫 3D MODELING
 
 <p align="left">
