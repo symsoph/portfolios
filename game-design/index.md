@@ -121,7 +121,8 @@ My Contributions
 <!-- Picture -->
 <div align="center">
   <img src="/game-design/assets/mysterious-forest.png" width="50%">
- 
+ <br/>
+  
 **Role: Game Programmer + Designer**
 </div>
 
@@ -142,7 +143,8 @@ My Contributions
 <video alt="gmtk-progress" width="400" height="500" src="https://github.com/user-attachments/assets/f686938d-1c5c-4a11-99d2-a2a9bacbcd67">
 <i>If the video is not showing, please trying refreshing the page!</i>
 </video>
-
+<br/>
+  
   **Role: Game Programmer**
 </div>
 
