@@ -19,8 +19,8 @@
 🍩🌼🐝
 > I learned the mechanisms and math behind graphics engines and rendered 2D & 3D models with OpenGL, Blender, and [Shadertoy](https://github.com/symsoph/portfolios/tree/main/shadertoy). 
 <div align="center" float="left">
-  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/hw4_donut.png" width="37%" />
-  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/hw4_not_donut.png" width="45%" /> 
+  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/hw4_donut.png?raw=true" width="37%" />
+  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/hw4_not_donut.png?raw=true" width="45%" /> 
 </div>
 
 These two models were built in Blender and rendered with OpenGL. For the donut, I followed the infamous [Blender tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) by Blender Guru on YouTube. Then, for a "not donut model", I created a bee then created a scene because I was inspired by the bees in Adventure Time.
@@ -28,8 +28,8 @@ These two models were built in Blender and rendered with OpenGL. For the donut, 
 <details>
 <summary> Here are some <i>bee-utfiul</i> references I used </summary>
 <div align="center" float="left">
-  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/bee-adventure-time.gif" width="49%" />
-  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/adventure-time-bee-by-eminentia.jpg" width="22%" /> 
+  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/bee-adventure-time.gif?raw=true" width="49%" />
+  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/adventure-time-bee-by-eminentia.jpg?raw=true" width="22%" /> 
 </div>
 </details>
 <br>
@@ -40,7 +40,7 @@ These two models were built in Blender and rendered with OpenGL. For the donut, 
 > As a Cognitive Cities Intern at the Qualcomm Institute, I found optimal places for solar paneling at UCSD's Warren College by utilizing Unreal Engine, Cesium, and Google Maps. 
 
 <div align="center">
-  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/qi-solar-panel-results.png" width="50%">
+  <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/qi-solar-panel-results.png?raw=true" width="50%">
   <br/>
   <i align="center">Above are the solar panel locations I identified for Atkinson Hall. </i>
 </div>
@@ -55,9 +55,9 @@ Isolated with Unreal lighting and raw drone scans before adding on Cesium and Go
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         Unreal only | Jacobs Hall | Side Angle <br/>
-        <a href="https://github.com/symsoph/portfolios/blob/main/game-design/assets/solar-jacobsHall.gif" target="_blank"> 
+        <a href="https://github.com/symsoph/portfolios/blob/main/game-design/assets/solar-jacobsHall.gif?raw=true" target="_blank"> 
         </a> &nbsp;&nbsp;
-        <a href="https://github.com/symsoph/portfolios/blob/main/game-design/assets/solar-jacobsHall.gif" target="_blank"></a>
+        <a href="https://github.com/symsoph/portfolios/blob/main/game-design/assets/solar-jacobsHall.gif?raw=true" target="_blank"></a>
       </h4>
 
 
@@ -65,7 +65,7 @@ Isolated with Unreal lighting and raw drone scans before adding on Cesium and Go
   <td style="vertical-align: top; width: 50%;">
       <h4> 
        Unreal only | Jacobs Hall | Top  <br/>
-        <a href="https://github.com/symsoph/portfolios/blob/main/game-design/assets/solar-TopWarrenMallField.gif" target="_blank">
+        <a href="https://github.com/symsoph/portfolios/blob/main/game-design/assets/solar-TopWarrenMallField.gif?raw=true" target="_blank">
         </a> 
       </h4>
   </td>
@@ -73,7 +73,7 @@ Isolated with Unreal lighting and raw drone scans before adding on Cesium and Go
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         Add on Cesium + Google Maps | 7am - 6pm Light <br/>
-        <a href="https://github.com/symsoph/portfolios/blob/main/game-design/assets/solar-atkinsonRoof.gif">   
+        <a href="https://github.com/symsoph/portfolios/blob/main/game-design/assets/solar-atkinsonRoof.gif?raw=true">   
         </a> 
       </h4>
     </td>
