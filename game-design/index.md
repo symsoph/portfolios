@@ -116,17 +116,16 @@ Role: Game Programmer + Audio Engineer
 
 <h2>🐰🌿🐌</h2>
 
-> The Mysterious Forest is the first game I created with a team at my first hack-a-thon ([ANova Hacks](https://www.berkeleyanova.org/)). It's a short 2D platformer made with Unity and stylish pixel art inspired by open world JRPGs like Breath of the Wild.
+> The Mysterious Forest is the first game I created with a team at my first hack-a-thon [ANova Hacks](https://www.berkeleyanova.org/). It's a short 2D platformer made with Unity and stylish pixel art inspired by open world JRPGs like Breath of the Wild.
 >
 > Press 'E' to interact with other characters and use 'A' + 'D' or the arrows to move left to right.  Press <space> to jump!
-> Try it [here](https://elias-855.itch.io/mysterious-forest)!
+> Try it [here](https://elias-855.itch.io/mysterious-forest) !
 
 <!-- Picture -->
 <div align="center">
   <img src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/mysterious-forest.png?raw=true" width="50%">
  <video alt="mysterious-forest-demo" width="60%" height="60%"
  src="https://github.com/symsoph/portfolios/blob/main/game-design/assets/real-mysterious-forest-demo.mp4?raw=true">
- </div>
  <br/>
   
 <strong><pre>
@@ -142,6 +141,7 @@ Role: Game Programmer + Designer
 - Character and environment design
 
 </pre>
+</div>
 
 
 
