@@ -95,6 +95,7 @@ With this experience, I also provided testing feedback about how to make 3D mode
 
 <div align="center">
   <img src="https://img.itch.zone/aW1nLzE3MDIxNjAwLnBuZw==/original/At1hrr.png" width="50%">
+  </div>
   <br/>
   
 <strong><pre>
